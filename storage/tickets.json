@@ -1,0 +1,14 @@
+[
+    {
+        "ticket_id": "50d0ac88",
+        "issue": "Payment was deducted from account but system shows transaction unsuccessful. Order ID: 123456",
+        "status": "open",
+        "created_at": "2026-01-06T07:12:42.871214"
+    },
+    {
+        "ticket_id": "b34db790",
+        "issue": "The order ID 3058495 shows as failed even though the payment was deducted.",
+        "status": "open",
+        "created_at": "2026-01-07T10:49:11.061661"
+    }
+]

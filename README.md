@@ -15,6 +15,18 @@ This project simulates a real-world customer support system capable of handling:
 - 📞 Escalation to human agents
 
 ---
+## 🧠 Agent Workflow (LangGraph)
+
+The following diagram shows how the AI agent processes user queries using a LangGraph-based workflow.
+
+- The agent node reasons over the user query
+- If a tool is required, the request is routed to the tool node
+- Tool output is sent back to the agent for final response
+- The workflow continues until a final answer is generated
+
+![LangGraph Workflow](assets/workflow.png)
+
+---
 
 ## 🚀 Tech Stack
 

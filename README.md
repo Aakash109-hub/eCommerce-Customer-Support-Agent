@@ -3,6 +3,8 @@
 
 An AI-powered **Customer Support Agent for the eCommerce industry**, built using **LangChain**, **LangGraph**, **Ollama**, **RAG**, and **Streamlit**.
 
+![Web Page](assets/Web_Page.png)
+
 <img width="1920" height="1020" alt="Screenshot 2026-01-11 152549" src="https://github.com/user-attachments/assets/dd4b3beb-4b46-481c-a223-d06c19a45643" />
 
 

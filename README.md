@@ -163,5 +163,3 @@ streamlit run app.py
 ## 👤 Author
 
 **Aakash**
-Aspiring AI/ML Engineer
-Focused on AI Agents, RAG systems, and real-world LLM applications
